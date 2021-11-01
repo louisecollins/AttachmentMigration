@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Attachments.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="almUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://10.6.17.217:8080/qcbin</Value>
+    </Setting>
+    <Setting Name="azureUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://allenovery.visualstudio.com/IT%20Quality%20Assurance</Value>
+    </Setting>
+    <Setting Name="almProjectName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AOProjects</Value>
+    </Setting>
+    <Setting Name="almUserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="almPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="azureUserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="azurePassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="attachmentFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:/Users/collinlo/attachmentStore</Value>
+    </Setting>
+    <Setting Name="defectListFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:/Users/Collinlo/DefectsIDwithAttachmentsNames2.xlsx</Value>
+    </Setting>
+    <Setting Name="almDomain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ALLENOVERY</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

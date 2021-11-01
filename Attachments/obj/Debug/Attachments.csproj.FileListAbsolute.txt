@@ -1,0 +1,14 @@
+C:\Users\collinlo\source\repos\Attachments\Attachments\bin\Debug\Attachments.exe.config
+C:\Users\collinlo\source\repos\Attachments\Attachments\bin\Debug\Attachments.exe
+C:\Users\collinlo\source\repos\Attachments\Attachments\bin\Debug\Attachments.pdb
+C:\Users\collinlo\source\repos\Attachments\Attachments\bin\Debug\Newtonsoft.Json.dll
+C:\Users\collinlo\source\repos\Attachments\Attachments\bin\Debug\RestSharp.dll
+C:\Users\collinlo\source\repos\Attachments\Attachments\bin\Debug\System.ValueTuple.dll
+C:\Users\collinlo\source\repos\Attachments\Attachments\bin\Debug\Newtonsoft.Json.xml
+C:\Users\collinlo\source\repos\Attachments\Attachments\bin\Debug\RestSharp.xml
+C:\Users\collinlo\source\repos\Attachments\Attachments\bin\Debug\System.ValueTuple.xml
+C:\Users\collinlo\source\repos\Attachments\Attachments\obj\Debug\Attachments.csprojAssemblyReference.cache
+C:\Users\collinlo\source\repos\Attachments\Attachments\obj\Debug\Attachments.csproj.CoreCompileInputs.cache
+C:\Users\collinlo\source\repos\Attachments\Attachments\obj\Debug\Attachments.csproj.CopyComplete
+C:\Users\collinlo\source\repos\Attachments\Attachments\obj\Debug\Attachments.exe
+C:\Users\collinlo\source\repos\Attachments\Attachments\obj\Debug\Attachments.pdb
